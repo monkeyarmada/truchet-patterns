@@ -1,0 +1,12 @@
+{
+  "name": "truchet-patterns",
+  "version": "1.0.0",
+  "description": "playing with tuchet patterns",
+  "main": "js/sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx http-server -c-1"
+  },
+  "author": "simon@firefrieldly.com",
+  "license": "ISC"
+}
